@@ -1,5 +1,5 @@
 _repo: Hamlet_2265
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,5 +36,6 @@ subjects:
 - !lcsh 'Denmark -- Drama'
 - !lcsh 'Tragedies'
 - !lcc 'PR'
+- GITenberg
 title: Hamlet
 url: http://www.gutenberg.org/ebooks/2265
